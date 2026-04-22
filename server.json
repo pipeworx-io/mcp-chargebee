@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/chargebee",
-  "title": "chargeuee",
-  "description": "Chargebee MCP Pack — wraps the Chargebee API v2",
+  "title": "Chargebee",
+  "description": "Chargebee MCP Pack \u2014 wraps the Chargebee API v2",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/chargebee",
   "repository": {
