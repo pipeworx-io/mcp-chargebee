@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chargebee",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Chargebee MCP Pack — wraps the Chargebee API v2",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "chargebee",
     "gatewaySlug": "chargebee",
-    "sourceHash": "v1-46148dd108d077cd80babd476a03afbe5740298c16345bdb638be0ffbed90f78",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-b89dc2eacb434d934a7f612615ea184251f580534a8354f45a83cc99177b03d5",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
